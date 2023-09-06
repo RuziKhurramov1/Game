@@ -1,0 +1,11 @@
+#gameDiv{
+    font-family:cursive;
+    border: 3ps solid;
+    border-radius: 25px;
+    padding: 10px;
+    background-color:black;
+    text-align: center;
+    color: #fff;
+    width: 700px;
+    margin: 200px 0 0 300px;
+}
